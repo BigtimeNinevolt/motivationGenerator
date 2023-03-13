@@ -22,6 +22,3 @@ function generateRandomText() {
 }
 
 generateBtn.addEventListener("click", generateRandomText);
-
-console.log(generateRandomText());
-console.log(generatedTxt);
