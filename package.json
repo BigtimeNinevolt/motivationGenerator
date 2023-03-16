@@ -4,7 +4,8 @@
   "description": "Motivation Generator is a simple web application that generates motivational quotes to inspire you. With a simple click of a button, you can get a new quote to help motivate you throughout your day.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
